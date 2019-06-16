@@ -53,6 +53,8 @@ theme: plainwhite
 
 # 06.16 Added
 remote_theme: thelehhman/plainwhite-jekyll
+url                      : "https://sewoong.kim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 plugins:
   - jekyll-seo-tag
