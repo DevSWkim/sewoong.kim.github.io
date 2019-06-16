@@ -1,6 +1,10 @@
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
+url: http://sewoong.kim.github.io
+resume_site: http://sewoong.kim.github.io
+github: https://github.com/sewoong.kim/
+baseurl: ""
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -53,8 +57,6 @@ theme: plainwhite
 
 # 06.16 Added
 remote_theme: thelehhman/plainwhite-jekyll
-url                      : "https://sewoong.kim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 plugins:
   - jekyll-seo-tag
