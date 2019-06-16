@@ -51,6 +51,9 @@ plainwhite:
 # Build settings
 theme: plainwhite
 
+# 06.16 Added
+remote_theme: thelehhman/plainwhite-jekyll
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
